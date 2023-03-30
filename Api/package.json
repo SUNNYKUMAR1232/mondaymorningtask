@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "mondymorningtask",
+  "version": "3.0.0",
+  "description": "mondaymornigtask",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sunny kumar",
+  "license": "ISC"
+}
